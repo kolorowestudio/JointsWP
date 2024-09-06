@@ -1,3 +1,5 @@
+test 2
+
 Currently using Foundation 6.5.3.
 
 ## JointsWP Requirements
@@ -52,3 +54,5 @@ Compiles and minifies all scripts and styles.
 
 ### Images
 * `assets/images/` - place your theme images here. Each image will be optimized when the build process is ran.
+
+test 3
