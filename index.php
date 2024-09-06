@@ -7,6 +7,8 @@
  * It is used to display a page when nothing more specific matches a query.
  */
 
+test 1
+
 get_header(); ?>
 			
 	<div class="content">
@@ -39,3 +41,5 @@ get_header(); ?>
 	</div> <!-- end #content -->
 
 <?php get_footer(); ?>
+
+test 2
