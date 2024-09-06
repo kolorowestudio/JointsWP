@@ -55,4 +55,4 @@ Compiles and minifies all scripts and styles.
 ### Images
 * `assets/images/` - place your theme images here. Each image will be optimized when the build process is ran.
 
-test 3
+test 3 + test 4
